@@ -90,7 +90,9 @@ pip install -r requirements.txt
 
 ## Results
 
+The app can successfully recognize the people in the dataset. The image of Tom hardy is recognized as you can see below:
 
+![output\result.png](output\result.png)
 
 ## Contributing
 
